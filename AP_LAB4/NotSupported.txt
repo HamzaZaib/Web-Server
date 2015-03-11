@@ -1,0 +1,8 @@
+<Html>
+	<head>
+		<Title>My First Server</Title>
+	</head>
+	<body>
+		<h1>HTTP VERSION NOT SUPPORTED</h1>
+	</body>
+</html>
